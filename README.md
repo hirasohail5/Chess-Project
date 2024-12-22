@@ -75,7 +75,7 @@
 ## Project Poster  
   
 <p align="center">
-  <img src="C:\Users\My PC 2\Downloads\project_poster.jpg" alt="Project Poster" width="400">
+  <img src="file:///C:\Users\My PC 2\Downloads\project_poster.jpg" alt="Project Poster" width="400">
   <br>
   <i>Main Menu Wireframe</i>
 </p>
@@ -86,5 +86,5 @@
 ---
 
 ## Conclusion
--**Knights' Gambit** demonstrates the power of data structures and algorithms in creating an engaging, strategic chess game. The project highlights practical applications of graphs, trees, stacks, and AI algorithms like Minimax and Alpha-Beta Pruning, providing a robust gameplay experience
+**Knights' Gambit** demonstrates the power of data structures and algorithms in creating an engaging, strategic chess game. The project highlights practical applications of graphs, trees, stacks, and AI algorithms like Minimax and Alpha-Beta Pruning, providing a robust gameplay experience
 
