@@ -1,6 +1,6 @@
 # Chess-Project
 **Subject Code:** CSC200 - Data Structures and Algorithms  
-**Instructor:** Prof. Nazeef Ul Haq  
+**Instructor:** Prof. Nazeef Ul Haq  and Prof. Waseem
 
 ## Contributions  
 - Hira Sohail 
